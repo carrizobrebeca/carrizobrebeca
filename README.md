@@ -48,5 +48,19 @@
  --- 
  
 ## 📫 **Contacto**
+<div>
+ <img width ='32px' src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> 
+ <span>
+  carrizob.rebeca@gmail.com
+ </span>
+ </div>
+  <div>
+ <img width ='32px' src ='(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> 
 
-<a href="mailto:rebeca.bourlotcarrizo@gmail.com">![rebeca.bourlotcarrizo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/rebeca-carrizo-bourlot-508316274">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+  <span>
+  www.linkedin.com/in/rebeca-carrizo-bourlot-508316274
+ </span>
+
+  
+ </div>
+
