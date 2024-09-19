@@ -31,11 +31,10 @@ la solución a problemas que creíamos ya resueltos
   <img width ='32px' src='https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png'>
   <img width ='32px' src='https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png'>
   <img width ='32px' src='https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon.png'>
-  <img width ='32px' src='https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png'>
  <img width ='32px' src='https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-thumbnail.png'>
-
- 
   </div>
+
+  
 ### **Frontend**  
 - React  
 - Redux  
