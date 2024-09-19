@@ -70,7 +70,7 @@ la solución a problemas que creíamos ya resueltos
  <img width ='32px' src ='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'> 
 
   <span>
-  www.linkedin.com/in/rebeca-carrizo-bourlot-508316274
+  www.linkedin.com/in/carrizo-bourlot-rebeca
  </span>
 
   
