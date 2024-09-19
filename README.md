@@ -47,7 +47,7 @@ la solución a problemas que creíamos ya resueltos
 - PostgreSQL  
 - Sequelize
 
-### **Otras tecnologías**  
+### **Otras**  
 - Git & GitHub    
 - Figma (diseño de UI/UX)
 
