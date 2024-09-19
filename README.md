@@ -13,7 +13,7 @@
 
 - Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar
 la solución a problemas que creíamos ya resueltos
-- Experiencia en proyectos individuales y grupales con **React**, **Node Js**, **SQL**
+- Experiencia en proyectos individuales y grupales con **React**, **NodeJs**, **SQL**
 
  --- 
  
@@ -23,18 +23,19 @@ la solución a problemas que creíamos ya resueltos
 - Ampliar mi perspectiva y encontrar nuevas soluciones a problemas
 
  --- 
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-  <div style="display: flex; align-items: center;">
+ 
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  **Tecnologías**
+ <div style="display: flex; align-items: center;">
    <img width ='32px' src ='https://www.twicpics.com/logos/twicpics-integrations/react.svg'> 
  <img width ='32px' src='https://www.twicpics.com/logos/twicpics-integrations/javascript.svg'>
+  <img width ='32px' src='https://e7.pngegg.com/pngimages/669/447/png-clipart-redux-react-javascript-freecodecamp-npm-others-miscellaneous-purple-thumbnail.png'>
+  <img width ='32px' src='https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png'>
+  <img width ='32px' src='https://w7.pngwing.com/pngs/448/730/png-transparent-postgresql-plain-logo-icon.png'>
+  <img width ='32px' src='https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png'>
  <img width ='32px' src='https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon-thumbnail.png'>
-  </div>
- 
- 
- 
-## 💻 **Tecnologías**
 
+ 
+  </div>
 ### **Frontend**  
 - React  
 - Redux  
@@ -42,7 +43,7 @@ la solución a problemas que creíamos ya resueltos
 - JavaScript (ES6+)
 
 ### **Backend**  
-- Node.js  
+- NodeJs  
 - Express  
 - PostgreSQL  
 - Sequelize
