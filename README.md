@@ -13,7 +13,7 @@
 
 - Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar
 la solución a problemas que creíamos ya resueltos
-- Experiencia en proyectos individuales y grupales con **React**, **NodeJs**, **SQL**
+- Experiencia en proyectos individuales y grupales con **JavaScript, React, Redux, NodeJs, PostgresSQL, Express**.
 
  --- 
  
