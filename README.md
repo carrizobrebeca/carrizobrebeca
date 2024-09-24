@@ -56,8 +56,8 @@
  ---
 ## 🎓 **Formación**
 
-- Estudiante de licenciatura en informática | Universidad Siglo XXI | 2022 - 2026
-- Full stack web developer - Henry | oct 2023 - sep 2024
+- Estudiante de Lic en Informática | Universidad Siglo XXI | 2022 - 2026
+- Full stack web developer | Henry | oct 2023 - sep 2024
 
  --- 
  
