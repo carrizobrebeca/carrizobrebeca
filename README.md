@@ -2,18 +2,19 @@
 
 ## ⚡ **Sobre mi** 
 > **Soy Rebeca Carrizo Bourlot**
->  - Me ha interesado el mundo de la programación desde que ingresé a la universidad,  mi primer lenguaje fue Java y  Python. Una experiencias muy motivadora para mi acercamiento al código
-> - Soy ***Desarrolladora full stack*** con experiencia en crear aplicaciones web intuitivas
+>  - Me ha interesado el mundo de la programación desde que ingresé a la universidadSiglo XXI, donde estudio Lic en Informática, fue una gran motivación para mi acercamiento al código.
+> - Soy ***Full Stack Developer*** con experiencia en crear aplicaciones web intuitivas, tanto en en proyectos individuales como colaborativos, utilizando tecnologías como JavaScript, React Js, Redux, CSS, HTML, Tailwind, Cloudinary, Postgress, Sequelize, Node Js, ExpressJs.
 > - Me enfoco en el aprendizaje continuo sobre nuevas tecnologías, para aplicarlas en proyectos y darle la mejor experiencia al usuario
-> - Mi objetivo es facilitar a las personas a incorporarse al entorno digital de manera simple
+> - Con habilidades en trabajo en equipo, adaptabilidad, responsabilidad, escucha activa y creatividad.
+> - Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar la solución a problemas que creíamos ya resueltos.
+
 
 --- 
 
 ## 💼 **Background**
 
-- Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar
-la solución a problemas que creíamos ya resueltos
-- Experiencia en proyectos individuales y grupales con **JavaScript, React, Redux, NodeJs, PostgresSQL, Express**.
+- Propietaria de Minimercado 
+- Lic en Informática
 
  --- 
  
@@ -21,7 +22,8 @@ la solución a problemas que creíamos ya resueltos
 
 - Impactar el mundo con código
 - Ampliar mi perspectiva y encontrar nuevas soluciones a problemas
-
+- Continuar aprendiendo nuevas tecnologías y seguir avanzando en este tan interesante mundo de la programación
+  
  --- 
  
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  **Tecnologías**
@@ -36,10 +38,10 @@ la solución a problemas que creíamos ya resueltos
 
   
 ### **Frontend**  
-- React  
+- React Js
 - Redux  
 - HTML5, CSS3 (Sass)  
-- JavaScript (ES6+)
+- JavaScript
 
 ### **Backend**  
 - NodeJs  
@@ -54,8 +56,8 @@ la solución a problemas que creíamos ya resueltos
  ---
 ## 🎓 **Formación**
 
-- Estudiante de licenciatura en informática
-- Full stack web developer
+- Estudiante de licenciatura en informática | Universidad Siglo XXI | 2022 - 2026
+- Full stack web developer - Henry | oct 2023 - sep 2024
 
  --- 
  
