@@ -13,8 +13,8 @@
 
 ## 💼 **Background**
 
-- Propietaria de Minimercado 
-- Lic en Informática
+- Propietaria de Minimercado DejaVu Market | Argentina, Entre Ríos
+
 
  --- 
  
