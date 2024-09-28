@@ -40,13 +40,13 @@
 ### **Frontend**  
 - React Js
 - Redux  
-- HTML5, CSS3 (Sass)  
+- HTML5, CSS3  
 - JavaScript
 
 ### **Backend**  
 - NodeJs  
 - Express  
-- PostgreSQL  
+- PostgresSQL  
 - Sequelize
 
 ### **Otras**  
