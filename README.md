@@ -2,11 +2,10 @@
 
 ## ⚡ **Sobre mi** 
 > **Soy Rebeca Carrizo Bourlot**
->  - Me ha interesado el mundo de la programación desde que ingresé a la universidad Siglo XXI, donde estudio Lic en Informática, fue una gran motivación para mi acercamiento al código.
-> - Soy ***Full Stack Developer*** con experiencia en crear aplicaciones web intuitivas, tanto en en proyectos individuales como colaborativos, utilizando tecnologías como JavaScript, React Js, Redux, CSS, HTML, Tailwind, Cloudinary, PostgreSQL, Sequelize, Node Js, ExpressJs.
-> - Me enfoco en el aprendizaje continuo sobre nuevas tecnologías, para aplicarlas en proyectos y darle la mejor experiencia al usuario
-> - Con habilidades en trabajo en equipo, adaptabilidad, responsabilidad, escucha activa y creatividad.
-> - Actualmente realizo proyectos que me permiten avanzar en mi formación como programador. Me fascina encontrar la solución a problemas que creíamos ya resueltos.
+>  - 👩‍💻 Soy ***Full Stack Developer*** y estudiante de ***Licenciatura en Informática*** 🎓
+>  - 🚀 Con experiencia en el desarrollo de aplicaciones web, tanto en proyectos individuales como grupales, utilizando tecnologías como JavaScript, React, Node.js, Express, PostgreSQL y Tailwind CSS. 
+Me especializo en Front-end y Back-end, tengo conocimientos en metodologías ágiles, GIT, estructuras de datos y algoritmos.
+> - 🖤 Me apasiona resolver problemas complejos de manera innovadora, me destaco por mi gestión eficiente del tiempo y mi capacidad de adaptación a diversos desafíos.
 
 
 --- 
